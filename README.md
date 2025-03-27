@@ -3,7 +3,7 @@
 
 The link between air-quality and heath outcomes has been known ,essentially, forever. More recently the link between less observable air quality measures and harmful health outcomes has been established (1).
 
-put https://github.com/AChezick/Capstone1/blob/main/images/180820-AIR-QUALITY-SKYLINE-CITYSCAPE-POLLUTION-WEATHER-COWX-KEVINJBEATY-02.jpg here
+https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/commit/05de70e2d7cc3a740c969ecfc8fec7fd0738a372
 image credit (Kevin J. Beaty/Denverite) (8) 
 
 ___ 
