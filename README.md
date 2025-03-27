@@ -4,10 +4,13 @@
 The link between air-quality and heath outcomes has been known ,essentially, forever. More recently the link between less observable air quality measures and harmful health outcomes has been established (1).
 
 https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/commit/05de70e2d7cc3a740c969ecfc8fec7fd0738a372
+![](![image](https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b)
 image credit (Kevin J. Beaty/Denverite) (8) 
 
 ___ 
-https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png 
+
+![](![image]([https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png ))
+ 
 
 The chemical reaction of combustion decreases the sample size of matter and changes the nature of reactants into small harmful gases, some of which are measured and referred to as particulate matter (PM). 
 
