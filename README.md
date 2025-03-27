@@ -4,12 +4,14 @@
 The link between air-quality and heath outcomes has been known ,essentially, forever. More recently the link between less observable air quality measures and harmful health outcomes has been established (1).
 
 https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/commit/05de70e2d7cc3a740c969ecfc8fec7fd0738a372
-![](![image](https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b)
+(![image](https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b)
 image credit (Kevin J. Beaty/Denverite) (8) 
 
 ___ 
 
-![](![image]([https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png ))
+
+
+(![image]([https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png ))
  
 
 The chemical reaction of combustion decreases the sample size of matter and changes the nature of reactants into small harmful gases, some of which are measured and referred to as particulate matter (PM). 
@@ -95,8 +97,8 @@ PUT https://github.com/AChezick/Capstone1/blob/main/images/annual_heart_events.p
 ___
 Reference for medically significant air quality levels.
 
-PUT https://github.com/AChezick/Capstone1/blob/main/images/aqitableforcourse.png HERE
-
+PUT https://github.com/AChezick//images/aqitableforcourse.png  
+(![image](https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b)
 
 The average for the annual PM 10 levels was 22.7, which is considered safe. 
 
@@ -177,4 +179,5 @@ https://www.pnas.org/content/117/25/13856
 7. The global burden of multiple chronic conditions: A narrative review
 https://doi.org/10.1016/j.pmedr.2018.10.008 
 
-8. Image reference 
+8. Image reference
+https://www.cpr.org/2019/07/29/when-the-air-gets-dirty-in-denver-should-you-head-for-the-hills/ 
