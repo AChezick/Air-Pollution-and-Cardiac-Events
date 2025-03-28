@@ -10,7 +10,7 @@ ___
 
 
 
-(![image]([[https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/Screenshot%202025-03-26%20at%2022-57-19%20Capstone1_images_tame.png%20at%20main%20%C2%B7%20AChezick_Capstone1.png ) 
+![image]([[https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/Screenshot%202025-03-26%20at%2022-57-19%20Capstone1_images_tame.png%20at%20main%20%C2%B7%20AChezick_Capstone1.png ) 
  
 
 The chemical reaction of combustion decreases the sample size of matter and changes the nature of reactants into small harmful gases, some of which are measured and referred to as particulate matter (PM). 
