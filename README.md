@@ -10,7 +10,7 @@ ___
 
 
 
-![image]((https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png) 
+![image](https://github.com/AChezick/Air-Pollution-and-Cardiac-Events/blob/main/data/images/tame.png) 
 
 The chemical reaction of combustion decreases the sample size of matter and changes the nature of reactants into small harmful gases, some of which are measured and referred to as particulate matter (PM). 
 
