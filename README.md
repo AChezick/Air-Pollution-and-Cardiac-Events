@@ -86,42 +86,43 @@ Date time indexing was completed so I could re-index this data frame and aggrega
 
 The six year distribution from this data set was normally distributed.
 
-put  https://github.com/AChezick/Capstone1/blob/main/images/normal_dist_hr_event.png HERE
+![Normal Distribution of Heart Events](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/normal_dist_hr_event.png)
+
 
 You can see the average annual PM 10 and PM 2.5 numbers are fairly consistent.
 
-PUT https://github.com/AChezick/Capstone1/blob/main/images/annual_heart_events.png HERE
+![Annual Heart Events](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/annual_heart_events.png)
 
 ___
 Reference for medically significant air quality levels.
 
-PUT https://github.com/AChezick//images/aqitableforcourse.png  
+![Air Quality Reference Table](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/aqitableforcourse.png)
 ![image](https://github.com/user-attachments/assets/b7155a4f-2cb0-454f-80e3-a9ac0e0bfd6b)
 
 The average for the annual PM 10 levels was 22.7, which is considered safe. 
 
-PUT https://github.com/AChezick/Capstone1/blob/main/images/annual_pm10.png HERE
+![Annual PM10 Levels](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/annual_pm10.png)
 
 Data from this site was missing for 2017.
 
-PUT  https://github.com/AChezick/Capstone1/blob/main/images/annual25.png HERE
+![Annual PM2.5 Levels](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/annual25.png)
 
 ___
 
 Among the three sites tested The Daily Mean Concentration was fairly consistent 7.3 , 7.4 , 9.6 
 
-PUT https://github.com/AChezick/Capstone1/blob/main/images/variance.png HERE
+![PM Variance Across Sites](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/variance.png)
 
 ___
 
 Again, visually there appears to be some association between PM levels and heart events. It would again be important to state that its impossible to assign a causal link from a single event for a chronic disease (or any dynamical system). The goal of this capstone was to see if I could detect a statistical association among the means for weeks on or after air quality levels in the worst 5% range from these measures.
 
 
-PUT   https://github.com/AChezick/Capstone1/blob/main/images/overlap1.png HERE
+![Overlap Between PM and Heart Events](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/overlap1.png)
 
 Since this data cannot be used for legislation I considered this the entire sample of measures from a qualitative perspective. This allows for extension of this project as official data become available.
 
-PUT https://github.com/AChezick/Capstone1/blob/main/join_plot.png  HERE
+![Joined Plot of Measures and Events](https://raw.githubusercontent.com/AChezick/Capstone1/main/join_plot.png)
 
 #### For hypothesis testing I separated weekly events into two categories based six years of data for that Site ID. 
 
@@ -130,9 +131,9 @@ Ho: I **will NOT** be able to detect significant increased differences in averag
 Ha: I **will** be able to detect significant increased differences in average death events at 0 or +1 weeks of high PM levels.
 
 
-PUT https://github.com/AChezick/Capstone1/blob/main/images/join_plot.png HERE
+![Scatter Plot: PM vs Events](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/scatter1.png)
 
-PUT https://github.com/AChezick/Capstone1/blob/main/images/scatter1.png HERE
+![Scatter Plot: PM10 vs Events](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/scatter_pm10.png)
 ___
 
 PUT https://github.com/AChezick/Capstone1/blob/main/images/scatter_pm10.png HERE
